@@ -7,7 +7,7 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        //Conflict test 1
+        //Conflict test 2
         setContentView(R.layout.activity_main)
     }
 }
